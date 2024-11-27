@@ -1,1 +1,0 @@
-![img](./.Readme/logo.png)
