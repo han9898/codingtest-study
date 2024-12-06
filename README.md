@@ -62,6 +62,18 @@
 - 연속 3회 이상 불참 시 스터디 제외 고려
 
 ## 스터디 일정
-| 회차 | 일시 | 참여자 | 문제 | 비고 |
-|:---:|:---|:---:|:---|:---:|
-| 1회차 | 24.12.02 (일) 10:00 | 인지님 제외 ALL | • [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) <br> • [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) <br> • [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | |
+### 1회차 (24.11.28 목 09:00)
+| 참여자 | 문제 | 비고 |
+|:---:|:---|:---:|
+| 은동혁 | • [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) <br> • [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) <br> • [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|  |
+| 이용환 | • [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) <br> • [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) |  |
+| 장소희 | • [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) <br> • [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) |  |
+| 이인지 | - | 불참 |
+
+### 2회차 (24.12.04 월 09:00)
+| 참여자 | 문제 | 비고 |
+|:---:|:---|:---:|
+| 은동혁 | • [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) <br> • [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) <br> • [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937) <br> • [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) <br> • [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) <br> • [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | |
+| 이용환 | • [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) <br> • [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) <br> • [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) <br> • [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | |
+| 장소희 | • [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) <br> • [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | |
+| 이인지 | • [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) <br> • [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) <br> • [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|  |
